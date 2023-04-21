@@ -1,0 +1,3 @@
+conda activate py37
+cd C:\Users\mamis\MC Tracking
+python demo.py --videos videos\init\Double1.mp4 videos\init\Single1.mp4 --version v3
