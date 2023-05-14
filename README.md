@@ -23,6 +23,8 @@ Pretrained YOLO v3 : https://drive.google.com/file/d/1a7JI-A920lrdt6OKya-qCXx-5Z
 
 Pretrained  YOLO v4 : https://drive.google.com/file/d/1pwFo4aHKPi0ztpL5tEYaXIr8RltYYQeY/view?usp=sharing
 
+model.pth : https://drive.google.com/file/d/1z1yC4dlYsN5OgtlUNHqIMf8VwnWeE4Ty/view?usp=sharing
+
 How to Run ? 
 
 python demo.py --videos videos\init\Double1.mp4 videos\init\Single1.mp4 --version v3
