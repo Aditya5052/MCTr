@@ -30,3 +30,6 @@ Torchreid Model : https://drive.google.com/file/d/1z1yC4dlYsN5OgtlUNHqIMf8VwnWeE
 How to Run ? 
 
 python demo.py --videos videos\init\Double1.mp4 videos\init\Single1.mp4 --version v3
+
+
+![Complete](https://github.com/Aditya5052/Multi-Camera-Person-Tracking-and-ReID/assets/72243114/98e6349e-41e8-4d45-b537-19eb760c4f76)
